@@ -14,6 +14,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### 2021
 * [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
 * [SIGIR 2021] **Automated Graph Learning via Population Based Self-Tuning GCN** [(Paper)](https://arxiv.org/abs/2107.04713)
+* [GECCO 2021] **Which Hyperparameters to Optimise? An Investigation of Evolutionary Hyperparameter Optimisation in Graph Neural Network For Molecular Property Prediction** [(Paper)](https://arxiv.org/pdf/2104.06046.pdf)
 * [P2PNA 2021] **ASFGNN Automated separated-federated graph neural network** [(Paper)](https://arxiv.org/abs/2011.03248)
 * [arXiv 2021] **A novel genetic algorithm with hierarchical evaluation strategy for hyperparameter optimisation of graph neural networks** [(Paper)](https://arxiv.org/abs/2101.09300)
 * [arXiv 2021] **Jitune: Just-in-time hyperparameter tuning for network embedding algorithms** [(Paper)](https://arxiv.org/abs/2101.06427)
@@ -54,10 +55,11 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 
 ## Miscellaneous
-### 2021
+### Self-supervised Learning
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
-* [ICML 2021 XAI workshop] **Towards Automated Evaluation of Explanations in Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2106.11864) 
 * [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
-
-
+### Structure Learning
+* [ICPR 2021] **AOAM Automatic Optimization of Adjacency Matrix for Graph Convolutional Network** [(Paper)](https://ieeexplore.ieee.org/document/9412046/) [(Code)](https://github.com/xshura/AOAM)
+### Explanation
+* [ICML 2021 XAI workshop] **Towards Automated Evaluation of Explanations in Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2106.11864) 
 
