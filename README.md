@@ -8,7 +8,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2101.06427)
 
 ## Tool
-* [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning ** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
+* [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
 
 ## Graph HPO
 ### 2021
@@ -36,16 +36,16 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [AAAI 2021] **One-shot graph neural architecture search with dynamic search space** [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-3441.LiY.pdf)
 
 ### 2020
-* [NeurIPS 2020] **Design space for graph neural networks** [(Paper)](https://arxiv.org/abs/2011.08843) [(Code)] (https://github.com/snap-stanford/GraphGym)
-* [ICONIP 2020] **Autograph: Automated graph neural network** [(Paper)](https://arxiv.org/abs/2011.11288
+* [NeurIPS 2020] **Design space for graph neural networks** [(Paper)](https://arxiv.org/abs/2011.08843) [(Code)](https://github.com/snap-stanford/GraphGym)
+* [ICONIP 2020] **Autograph: Automated graph neural network** [(Paper)](https://arxiv.org/abs/2011.11288)
 * [BigData 2020] **Graph neural network architecture search for molecular property prediction** [(Paper)](https://arxiv.org/abs/2008.12187) [(Code)](https://github.com/deephyper/nas-gcn)
-* [CIKM 2020 CSSA workshop] **Simplifying architecture search for graph neural network**(https://arxiv.org/abs/2008.11652) [(Code)](https://github.com/AutoML-4Paradigm/SNAG)
+* [CIKM 2020 CSSA workshop] **Simplifying architecture search for graph neural network**[(Paper)](https://arxiv.org/abs/2008.11652) [(Code)](https://github.com/AutoML-4Paradigm/SNAG)
 * [BRACIS 2020] **Neural architecture search in graph neural networks** [(Paper)](https://arxiv.org/abs/2008.00077) [(Code)](https://github.com/mhnnunes/nas_gnn)
-* [GECCO 2020] ** Fitness Landscape Analysis of Graph Neural Network Architecture Search Spaces ** [(Paper)](https://dl.acm.org/doi/10.1145/3449639.3459318) [(Code)](https://github.com/mhnnunes/fla_nas_gnn)
-* [IJCAI 2020] **Graph neural architecture search** [(Paper)](https://www.ijcai.org/proceedings/2020/195) [(Code)] (https://github.com/GraphNAS/GraphNAS)
+* [GECCO 2020] **Fitness Landscape Analysis of Graph Neural Network Architecture Search Spaces** [(Paper)](https://dl.acm.org/doi/10.1145/3449639.3459318) [(Code)](https://github.com/mhnnunes/fla_nas_gnn)
+* [IJCAI 2020] **Graph neural architecture search** [(Paper)](https://www.ijcai.org/proceedings/2020/195) [(Code)](https://github.com/GraphNAS/GraphNAS)
 * [CVPR 2020] **SGAS: Sequential Greedy Architecture Search** [(Paper)](https://arxiv.org/abs/1912.00195) [(Code)](https://github.com/lightaime/sgas)
-* [AAAI 2020] **Learning graph convolutional network for skeleton-based human action recognition by neural searching**[(Paper)](https://arxiv.org/abs/1911.04131) [(Code)](https://github.com/xiaoiker/GCN-NAS)
-* [OpenReview 2020] **Efficient graph neural architecture search**(https://openreview.net/forum?id=IjIzIOkK2D6)
+* [AAAI 2020] **Learning graph convolutional network for skeleton-based human action recognition by neural searching** [(Paper)](https://arxiv.org/abs/1911.04131) [(Code)](https://github.com/xiaoiker/GCN-NAS)
+* [OpenReview 2020] **Efficient graph neural architecture search** [(Paper)](https://openreview.net/forum?id=IjIzIOkK2D6)
 * [arXiv 2020] **Evolutionary architecture search for graph neural networks** [(Paper)](https://arxiv.org/abs/2009.10199) [(Code)](https://github.com/IRES-FAU/Evolutionary-Architecture-Search-for-Graph-Neural-Networks) 
 * [arXiv 2020] **Probabilistic dual network architecture search on graphs** [(Paper)](https://arxiv.org/abs/2003.09676)
 
