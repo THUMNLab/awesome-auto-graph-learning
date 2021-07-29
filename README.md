@@ -4,13 +4,13 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 **Please submit a pull request if you want to add new papers or have any suggestions!**
 
 
-### Survey
+## Survey
 * [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2101.06427)
 
-### Tool
-* [ICLR 2021 GTRL workshop] ** AutoGL: A Library for Automated Graph Learning ** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
+## Tool
+* [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning ** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
 
-### Graph HPO
+## Graph HPO
 2021
 ----
 * [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
@@ -27,7 +27,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ----
 * [KDD 2019] **AutoNE: Hyperparameter optimization for massive network embedding** [(Paper)](http://pengcui.thumedialab.com/papers/AutoNE.pdf) [(Code)](https://github.com/tadpole/AutoNE)
 
-### Graph NAS
+## Graph NAS
 2021
 ----
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
@@ -42,7 +42,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 2020
 ----
 * [NeurIPS 2020] **Design space for graph neural networks** [(Paper)](https://arxiv.org/abs/2011.08843) [(Code)] (https://github.com/snap-stanford/GraphGym)
-* [ICONIP 2020] ** Autograph: Automated graph neural network** [(Paper)](https://arxiv.org/abs/2011.11288
+* [ICONIP 2020] **Autograph: Automated graph neural network** [(Paper)](https://arxiv.org/abs/2011.11288
 * [BigData 2020] **Graph neural network architecture search for molecular property prediction** [(Paper)](https://arxiv.org/abs/2008.12187) [(Code)](https://github.com/deephyper/nas-gcn)
 * [CIKM 2020 CSSA workshop] **Simplifying architecture search for graph neural network**(https://arxiv.org/abs/2008.11652) [(Code)](https://github.com/AutoML-4Paradigm/SNAG)
 * [BRACIS 2020] **Neural architecture search in graph neural networks** [(Paper)](https://arxiv.org/abs/2008.00077) [(Code)](https://github.com/mhnnunes/nas_gnn)
@@ -56,10 +56,10 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 2019
 ----
-*[arXiv 2019] **Auto-gnn: Neural architecture search of graph neural networks** [(Paper)](https://arxiv.org/abs/1909.03184)
+* [arXiv 2019] **Auto-gnn: Neural architecture search of graph neural networks** [(Paper)](https://arxiv.org/abs/1909.03184)
 
 
-### Miscellaneous
+## Miscellaneous
 2021
 ----
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
