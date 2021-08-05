@@ -31,6 +31,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICML 2021] **AutoAttend Automated Attention Representation Search** [(Paper)](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf)
 * [SIGIR 2021] **GraphPAS Parallel Architecture Search for Graph Neural Networks** [(Paper)](https://dl.acm.org/doi/abs/10.1145/3404835.3463007)
 * [CVPR 2021] **Rethinking Graph Neural Network Search from Message-passing** [(Paper)](https://arxiv.org/abs/2103.14282) [(Code)](https://github.com/phython96/GNAS-MP)
+* [GECCO 2021] **Fitness Landscape Analysis of Graph Neural Network Architecture Search Spaces** [(Paper)](https://dl.acm.org/doi/10.1145/3449639.3459318) [(Code)](https://github.com/mhnnunes/fla_nas_gnn)
 * [EuroSys 2021 EuroMLSys workshop] **Learned low precision graph neural networks** [(Paper)](https://arxiv.org/abs/2009.09232)
 * [WWW 2021]  **Autostg: Neural architecture search for predictions of spatio-temporal graphs** [(Paper)](http://panzheyi.cc/publication/pan2021autostg/paper.pdf) [(Code)](https://github.com/panzheyi/AutoSTG)
 * [ICDE 2021] **Search to aggregate neighborhood for graph neural network** [(Paper)](https://arxiv.org/abs/2104.06608) [(Code)](https://github.com/AutoML-4Paradigm/SANE)
@@ -42,7 +43,6 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [BigData 2020] **Graph neural network architecture search for molecular property prediction** [(Paper)](https://arxiv.org/abs/2008.12187) [(Code)](https://github.com/deephyper/nas-gcn)
 * [CIKM 2020 CSSA workshop] **Simplifying architecture search for graph neural network**[(Paper)](https://arxiv.org/abs/2008.11652) [(Code)](https://github.com/AutoML-4Paradigm/SNAG)
 * [BRACIS 2020] **Neural architecture search in graph neural networks** [(Paper)](https://arxiv.org/abs/2008.00077) [(Code)](https://github.com/mhnnunes/nas_gnn)
-* [GECCO 2020] **Fitness Landscape Analysis of Graph Neural Network Architecture Search Spaces** [(Paper)](https://dl.acm.org/doi/10.1145/3449639.3459318) [(Code)](https://github.com/mhnnunes/fla_nas_gnn)
 * [IJCAI 2020] **Graph neural architecture search** [(Paper)](https://www.ijcai.org/proceedings/2020/195) [(Code)](https://github.com/GraphNAS/GraphNAS)
 * [CVPR 2020] **SGAS: Sequential Greedy Architecture Search** [(Paper)](https://arxiv.org/abs/1912.00195) [(Code)](https://github.com/lightaime/sgas)
 * [AAAI 2020] **Learning graph convolutional network for skeleton-based human action recognition by neural searching** [(Paper)](https://arxiv.org/abs/1911.04131) [(Code)](https://github.com/xiaoiker/GCN-NAS)
@@ -58,8 +58,15 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Self-supervised Learning
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
 * [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
+### Knowledge Graph Embedding
+* [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
+* [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
+ 
+<!--
+hide not very related papers
 ### Structure Learning
-* [ICPR 2021] **AOAM Automatic Optimization of Adjacency Matrix for Graph Convolutional Network** [(Paper)](https://ieeexplore.ieee.org/document/9412046/) [(Code)](https://github.com/xshura/AOAM)
+* [ICPR 2020] **AOAM Automatic Optimization of Adjacency Matrix for Graph Convolutional Network** [(Paper)](https://ieeexplore.ieee.org/document/9412046/) [(Code)](https://github.com/xshura/AOAM)
 ### Explanation
 * [ICML 2021 XAI workshop] **Towards Automated Evaluation of Explanations in Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2106.11864) 
+-->
 
