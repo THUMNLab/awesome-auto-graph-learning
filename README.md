@@ -27,6 +27,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2021
+* [CIKM 2021] **Pooling Architecture Search for Graph Classification** [(Paper)](https://arxiv.org/pdf/2108.10587.pdf) [(Code)](https://github.com/AutoML-Research/PAS)
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
 * [ICML 2021] **AutoAttend Automated Attention Representation Search** [(Paper)](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf)
 * [SIGIR 2021] **GraphPAS Parallel Architecture Search for Graph Neural Networks** [(Paper)](https://dl.acm.org/doi/abs/10.1145/3404835.3463007)
@@ -41,6 +42,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [NeurIPS 2020] **Design space for graph neural networks** [(Paper)](https://arxiv.org/abs/2011.08843) [(Code)](https://github.com/snap-stanford/GraphGym)
 * [ICONIP 2020] **Autograph: Automated graph neural network** [(Paper)](https://arxiv.org/abs/2011.11288)
 * [BigData 2020] **Graph neural network architecture search for molecular property prediction** [(Paper)](https://arxiv.org/abs/2008.12187) [(Code)](https://github.com/deephyper/nas-gcn)
+* [CIKM 2020] **Genetic Meta-Structure Search for Recommendation on Heterogeneous Information Network** [(Paper)](https://arxiv.org/pdf/2102.10550) [(Code)](https://github.com/0oshowero0/GEMS)
 * [CIKM 2020 CSSA workshop] **Simplifying architecture search for graph neural network**[(Paper)](https://arxiv.org/abs/2008.11652) [(Code)](https://github.com/AutoML-4Paradigm/SNAG)
 * [BRACIS 2020] **Neural architecture search in graph neural networks** [(Paper)](https://arxiv.org/abs/2008.00077) [(Code)](https://github.com/mhnnunes/nas_gnn)
 * [IJCAI 2020] **Graph neural architecture search** [(Paper)](https://www.ijcai.org/proceedings/2020/195) [(Code)](https://github.com/GraphNAS/GraphNAS)
