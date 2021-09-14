@@ -27,6 +27,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2021
+* [arXiv] **Edge-featured Graph Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2109.0135.pdf)
 * [CIKM 2021] **Pooling Architecture Search for Graph Classification** [(Paper)](https://arxiv.org/pdf/2108.10587.pdf) [(Code)](https://github.com/AutoML-Research/PAS)
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
 * [ICML 2021] **AutoAttend Automated Attention Representation Search** [(Paper)](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf)
@@ -63,6 +64,21 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Knowledge Graph Embedding
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
+ 
+
+## Cite
+
+Please consider citing our [survey paper](http://arxiv.org/abs/2103.00742) if you find this repository helpful:
+```
+@article{zhang2021automated,
+  title={Automated Machine Learning on Graphs: A Survey},
+  author={Zhang, Ziwei and Wang, Xin and Zhu, Wenwu},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI-21}},
+  year={2021},
+  note={Survey track}
+}
+```
+ 
  
 <!--
 hide not very related papers
