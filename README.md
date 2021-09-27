@@ -27,9 +27,12 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2021
+* [arXiv] **Search For Deep Graph Neural Networks** [(Paper)](https://arxiv.org/pdf/2109.10047.pdf)
+* [arXiv] **G-CoS GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency** [(Paper)](https://arxiv.org/pdf/2109.08983.pdf)
 * [arXiv] **Edge-featured Graph Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2109.0135.pdf)
 * [CIKM 2021] **Pooling Architecture Search for Graph Classification** [(Paper)](https://arxiv.org/pdf/2108.10587.pdf) [(Code)](https://github.com/AutoML-Research/PAS)
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
+* [KDD 2021 DLG Workshop] **Learn Layer-wise Connections in Graph Neural Networks** [(Paper)](https://drive.google.com/file/d/11BxUT80T7FfjbM55YjpX-yvnoxRERCIN/view)
 * [ICML 2021] **AutoAttend Automated Attention Representation Search** [(Paper)](http://proceedings.mlr.press/v139/guan21a/guan21a.pdf)
 * [SIGIR 2021] **GraphPAS Parallel Architecture Search for Graph Neural Networks** [(Paper)](https://dl.acm.org/doi/abs/10.1145/3404835.3463007)
 * [CVPR 2021] **Rethinking Graph Neural Network Search from Message-passing** [(Paper)](https://arxiv.org/abs/2103.14282) [(Code)](https://github.com/phython96/GNAS-MP)
