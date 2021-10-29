@@ -67,6 +67,8 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Knowledge Graph Embedding
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
+### Others
+* [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
  
 
 ## Cite
