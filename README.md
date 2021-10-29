@@ -5,7 +5,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 
 ## Survey
-* [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2103.00742)
+* [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2101.06427)
 
 ## Tool
 * [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
