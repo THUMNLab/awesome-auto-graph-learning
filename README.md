@@ -27,9 +27,10 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2021
-* [arXiv] **Search For Deep Graph Neural Networks** [(Paper)](https://arxiv.org/pdf/2109.10047.pdf)
-* [arXiv] **G-CoS GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency** [(Paper)](https://arxiv.org/pdf/2109.08983.pdf)
-* [arXiv] **Edge-featured Graph Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2109.0135.pdf)
+* [NeurIPS 2021] **Graph Differentiable Architecture Search with Structure Learning** [(Paper)](https://openreview.net/forum?id=kSv_AMdehh3) [(Code)](https://github.com/THUMNLab/AutoGL)
+* [NeurIPS 2021] **AutoGEL: An Automated Graph Neural Network with Explicit Link Information** [(Paper)](https://openreview.net/forum?id=G5l8qucT8A) [(Code)](https://github.com/zwangeo/AutoGEL)
+* [PRICAI 2021] **Automatic Graph Learning with Evolutionary Algorithms: An Experimental Study** [(Paper)(https://link.springer.com/chapter/10.1007/978-3-030-89188-6_38) 
+* [PRICAI 2021] **ALGNN Auto-Designed Lightweight Graph Neural Network** [(Paper)(https://link.springer.com/chapter/10.1007/978-3-030-89188-6_37) 
 * [CIKM 2021] **Pooling Architecture Search for Graph Classification** [(Paper)](https://arxiv.org/pdf/2108.10587.pdf) [(Code)](https://github.com/AutoML-Research/PAS)
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
 * [KDD 2021 DLG Workshop] **Learn Layer-wise Connections in Graph Neural Networks** [(Paper)](https://drive.google.com/file/d/11BxUT80T7FfjbM55YjpX-yvnoxRERCIN/view)
@@ -41,6 +42,10 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [WWW 2021]  **Autostg: Neural architecture search for predictions of spatio-temporal graphs** [(Paper)](http://panzheyi.cc/publication/pan2021autostg/paper.pdf) [(Code)](https://github.com/panzheyi/AutoSTG)
 * [ICDE 2021] **Search to aggregate neighborhood for graph neural network** [(Paper)](https://arxiv.org/abs/2104.06608) [(Code)](https://github.com/AutoML-4Paradigm/SANE)
 * [AAAI 2021] **One-shot graph neural architecture search with dynamic search space** [(Paper)](https://www.aaai.org/AAAI21Papers/AAAI-3441.LiY.pdf)
+* [arXiv] **Search For Deep Graph Neural Networks** [(Paper)](https://arxiv.org/pdf/2109.10047.pdf)
+* [arXiv] **G-CoS GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency** [(Paper)](https://arxiv.org/pdf/2109.08983.pdf)
+* [arXiv] **Edge-featured Graph Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2109.0135.pdf)
+* [arXiv] **FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional Network Search** [(Paper)](https://arxiv.org/abs/2104.04141)
 
 ### 2020
 * [NeurIPS 2020] **Design space for graph neural networks** [(Paper)](https://arxiv.org/abs/2011.08843) [(Code)](https://github.com/snap-stanford/GraphGym)
@@ -63,6 +68,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ## Miscellaneous
 ### Self-supervised Learning
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
+* [arXiv 2021] **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators** [(Paper)](https://arxiv.org/abs/2109.10259)
 * [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
 ### Knowledge Graph Embedding
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
