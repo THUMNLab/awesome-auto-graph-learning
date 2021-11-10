@@ -28,9 +28,9 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ## Graph NAS
 ### 2021
 * [NeurIPS 2021] **Graph Differentiable Architecture Search with Structure Learning** [(Paper)](https://openreview.net/forum?id=kSv_AMdehh3) [(Code)](https://github.com/THUMNLab/AutoGL)
-* [NeurIPS 2021] **AutoGEL: An Automated Graph Neural Network with Explicit Link Information** [(Paper)](https://openreview.net/forum?id=G5l8qucT8A) [(Code)](https://github.com/zwangeo/AutoGEL)
-* [PRICAI 2021] **Automatic Graph Learning with Evolutionary Algorithms: An Experimental Study** [(Paper)(https://link.springer.com/chapter/10.1007/978-3-030-89188-6_38) 
-* [PRICAI 2021] **ALGNN Auto-Designed Lightweight Graph Neural Network** [(Paper)(https://link.springer.com/chapter/10.1007/978-3-030-89188-6_37) 
+* [NeurIPS 2021] **AutoGEL: An Automated Graph Neural Network with Explicit Link Information** [(Paper)](https://openreview.net/forum?id=PftCCiHVQP) [(Code)](https://github.com/zwangeo/AutoGEL)
+* [PRICAI 2021] **Automatic Graph Learning with Evolutionary Algorithms: An Experimental Study** [(Paper)](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_38) 
+* [PRICAI 2021] **ALGNN Auto-Designed Lightweight Graph Neural Network** [(Paper)](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_37) 
 * [CIKM 2021] **Pooling Architecture Search for Graph Classification** [(Paper)](https://arxiv.org/pdf/2108.10587.pdf) [(Code)](https://github.com/AutoML-Research/PAS)
 * [KDD 2021] **DiffMG Differentiable Meta Graph Search for Heterogeneous Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2010.03250) [(Code)](https://github.com/AutoML-4Paradigm/DiffMG)
 * [KDD 2021 DLG Workshop] **Learn Layer-wise Connections in Graph Neural Networks** [(Paper)](https://drive.google.com/file/d/11BxUT80T7FfjbM55YjpX-yvnoxRERCIN/view)
