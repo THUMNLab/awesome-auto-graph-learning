@@ -6,29 +6,14 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Survey
 * [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2103.00742)
+* [Extension] **Automated Graph Machine Learning: Approaches, Libraries and Directions** [(Paper)](https://arxiv.org/abs/2201.01288)
 
 ## Tool
 * [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
 
-## Graph HPO
-### 2021
-* [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
-* [SIGIR 2021] **Automated Graph Learning via Population Based Self-Tuning GCN** [(Paper)](https://arxiv.org/abs/2107.04713)
-* [PRICAI 2021] **Automatic Graph Learning with Evolutionary Algorithms: An Experimental Study** [(Paper)](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_38) 
-* [GECCO 2021] **Which Hyperparameters to Optimise? An Investigation of Evolutionary Hyperparameter Optimisation in Graph Neural Network For Molecular Property Prediction** [(Paper)](https://arxiv.org/pdf/2104.06046.pdf)
-* [P2PNA 2021] **ASFGNN Automated separated-federated graph neural network** [(Paper)](https://arxiv.org/abs/2011.03248)
-* [arXiv 2021] **A novel genetic algorithm with hierarchical evaluation strategy for hyperparameter optimisation of graph neural networks** [(Paper)](https://arxiv.org/abs/2101.09300)
-* [arXiv 2021] **Jitune: Just-in-time hyperparameter tuning for network embedding algorithms** [(Paper)](https://arxiv.org/abs/2101.06427)
-
-### 2020
-* [ICDM 2020] **Autonomous graph mining algorithm search with best speed/accuracy trade-off** [(Paper)](https://arxiv.org/abs/2011.14925) [(Code)](https://github.com/minjiyoon/ICDM20-AutoGM)
-
-### 2019
-* [KDD 2019] **AutoNE: Hyperparameter optimization for massive network embedding** [(Paper)](http://pengcui.thumedialab.com/papers/AutoNE.pdf) [(Code)](https://github.com/tadpole/AutoNE)
-
 ## Graph NAS
 ### 2022
-* [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638)
+* [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
 * [WWW 2022] **Designing the Topology of Graph Neural Networks A Novel Feature Fusion Perspective** [(Paper)](https://arxiv.org/abs/2112.14531)
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
 * [TPDS 2022] **Auto-GNAS A Parallel Graph Neural Architecture Search Framework** [(Paper)](https://ieeexplore.ieee.org/document/9714826) 
@@ -74,6 +59,24 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### 2019
 * [arXiv 2019] **Auto-gnn: Neural architecture search of graph neural networks** [(Paper)](https://arxiv.org/abs/1909.03184)
 
+## Graph HPO
+### 2022
+* [ACL 2022] **KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning** [(Paper)](https://arxiv.org/pdf/2205.02460.pdf)
+### 2021
+* [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
+* [SIGIR 2021] **Automated Graph Learning via Population Based Self-Tuning GCN** [(Paper)](https://arxiv.org/abs/2107.04713)
+* [PRICAI 2021] **Automatic Graph Learning with Evolutionary Algorithms: An Experimental Study** [(Paper)](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_38) 
+* [GECCO 2021] **Which Hyperparameters to Optimise? An Investigation of Evolutionary Hyperparameter Optimisation in Graph Neural Network For Molecular Property Prediction** [(Paper)](https://arxiv.org/pdf/2104.06046.pdf)
+* [P2PNA 2021] **ASFGNN Automated separated-federated graph neural network** [(Paper)](https://arxiv.org/abs/2011.03248)
+* [arXiv 2021] **A novel genetic algorithm with hierarchical evaluation strategy for hyperparameter optimisation of graph neural networks** [(Paper)](https://arxiv.org/abs/2101.09300)
+* [arXiv 2021] **Jitune: Just-in-time hyperparameter tuning for network embedding algorithms** [(Paper)](https://arxiv.org/abs/2101.06427)
+
+### 2020
+* [ICDM 2020] **Autonomous graph mining algorithm search with best speed/accuracy trade-off** [(Paper)](https://arxiv.org/abs/2011.14925) [(Code)](https://github.com/minjiyoon/ICDM20-AutoGM)
+
+### 2019
+* [KDD 2019] **AutoNE: Hyperparameter optimization for massive network embedding** [(Paper)](http://pengcui.thumedialab.com/papers/AutoNE.pdf) [(Code)](https://github.com/tadpole/AutoNE)
+
 
 ## Miscellaneous
 ### Self-supervised Learning
@@ -85,8 +88,8 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 ### Others
 * [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
+* [arXiv 2022] **Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2204.02625)
  
-
 ## Cite
 
 Please consider citing our [survey paper](http://arxiv.org/abs/2103.00742) if you find this repository helpful:
