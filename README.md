@@ -13,11 +13,14 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2022
+* [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
+* [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](Automatic Relation-aware Graph Network Proliferation) [(Code)](https://github.com/phython96/ARGNP)
 * [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
 * [WWW 2022] **Designing the Topology of Graph Neural Networks A Novel Feature Fusion Perspective** [(Paper)](https://arxiv.org/abs/2112.14531)
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
 * [TPDS 2022] **Auto-GNAS A Parallel Graph Neural Architecture Search Framework** [(Paper)](https://ieeexplore.ieee.org/document/9714826) 
 * [WSDM 2022] **Profiling the Design Space for Graph Neural Networks based Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/125.pdf) [(Code)](https://github.com/BUPT-GAMMA/Design-Space-for-GNN-based-CF)
+* [arXiv 2022] **AutoKE: An automatic knowledge embedding framework for scientific machine learning** [(Paper)](https://arxiv.org/abs/2205.05390)
 
 ### 2021
 * [NeurIPS 2021] **Graph Differentiable Architecture Search with Structure Learning** [(Paper)](https://openreview.net/forum?id=kSv_AMdehh3) [(Code)](https://github.com/THUMNLab/AutoGL)
@@ -61,6 +64,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph HPO
 ### 2022
+* [KAIS 2022] **Autonomous graph mining algorithm search with best performance trade-off** [(Paper)](https://link.springer.com/article/10.1007/s10115-022-01683-8)
 * [ACL 2022] **KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning** [(Paper)](https://arxiv.org/pdf/2205.02460.pdf)
 ### 2021
 * [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
@@ -89,6 +93,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Others
 * [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
 * [arXiv 2022] **Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2204.02625)
+* [AILSCI 2022] **AutoGGN: A gene graph network AutoML tool for multi-omics research** [(Paper)](https://www.biorxiv.org/content/10.1101/2021.04.30.442074v2)
  
 ## Cite
 
