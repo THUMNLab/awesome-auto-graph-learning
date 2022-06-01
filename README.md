@@ -16,7 +16,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
 * [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](https://arxiv.org/abs/2205.15678) [(Code)](https://github.com/phython96/ARGNP)
 * [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
-* [WWW 2022] **Designing the Topology of Graph Neural Networks A Novel Feature Fusion Perspective** [(Paper)](https://arxiv.org/abs/2112.14531)
+* [WWW 2022] **Designing the Topology of Graph Neural Networks A Novel Feature Fusion Perspective** [(Paper)](https://arxiv.org/abs/2112.14531) [(Code)](https://github.com/AutoML-Research/F2GNN)
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
 * [TPDS 2022] **Auto-GNAS A Parallel Graph Neural Architecture Search Framework** [(Paper)](https://ieeexplore.ieee.org/document/9714826) 
 * [WSDM 2022] **Profiling the Design Space for Graph Neural Networks based Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/125.pdf) [(Code)](https://github.com/BUPT-GAMMA/Design-Space-for-GNN-based-CF)
@@ -99,7 +99,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 Please consider citing our [survey paper](http://arxiv.org/abs/2103.00742) if you find this repository helpful:
 ```
-@article{zhang2021automated,
+@inproceedings{zhang2021automated,
   title={Automated Machine Learning on Graphs: A Survey},
   author={Zhang, Ziwei and Wang, Xin and Zhu, Wenwu},
   booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI-21}},
