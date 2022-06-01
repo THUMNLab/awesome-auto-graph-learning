@@ -14,7 +14,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ## Graph NAS
 ### 2022
 * [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
-* [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](Automatic Relation-aware Graph Network Proliferation) [(Code)](https://github.com/phython96/ARGNP)
+* [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](https://arxiv.org/abs/2205.15678) [(Code)](https://github.com/phython96/ARGNP)
 * [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
 * [WWW 2022] **Designing the Topology of Graph Neural Networks A Novel Feature Fusion Perspective** [(Paper)](https://arxiv.org/abs/2112.14531)
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
