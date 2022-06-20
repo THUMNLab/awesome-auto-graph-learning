@@ -87,9 +87,9 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Miscellaneous
 ### Self-supervised Learning
+* [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
 * [AAAI 2022] **AutoGCL Automated Graph Contrastive Learning via Learnable View Generators** [(Paper)](https://arxiv.org/abs/2109.10259) [(Code)](https://github.com/Somedaywilldo/AutoGCL)
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
-* [arXiv 2021] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
 ### Knowledge Graph Embedding
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
