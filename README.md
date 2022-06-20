@@ -13,6 +13,9 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2022
+* [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
+* [ICML 2022] **Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
+* [ICML 2022] **DFG-NAS: Deep and Flexible Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.08582) [(Code)](https://github.com/PKU-DAIR/DFG-NAS)
 * [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
 * [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](https://arxiv.org/abs/2205.15678) [(Code)](https://github.com/phython96/ARGNP)
 * [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
