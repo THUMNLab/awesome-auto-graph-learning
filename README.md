@@ -13,9 +13,12 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2022
+* [arXiv 2022] **NAS-Bench-Graph Benchmarking Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.09166)[(Code)](https://github.com/THUMNLab/NAS-Bench-Graph)
 * [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
 * [ICML 2022] **Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
 * [ICML 2022] **DFG-NAS: Deep and Flexible Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.08582) [(Code)](https://github.com/PKU-DAIR/DFG-NAS)
+* [KDDDLG 2022] **Graph Property Prediction on Open Graph Benchmark: A Winning Solution by Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2207.06027) [(Code)](https://github.com/AutoML-Research/PAS-OGB)
+* [SIGIR 2022] **AutoGSR: Neural Architecture Search for Graph-based Session Recommendation** [(Paper)](https://dl.acm.org/doi/10.1145/3477495.3531940)
 * [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
 * [CVPR 2022] **Automatic Relation-aware Graph Network Proliferation** [(Paper)](https://arxiv.org/abs/2205.15678) [(Code)](https://github.com/phython96/ARGNP)
 * [WWW 2022] **PaSca a Graph Neural Architecture Search System under the Scalable Paradigm** [(Paper)](https://arxiv.org/abs/2203.00638) [(Code)](https://github.com/PKU-DAIR/SGL)
@@ -69,6 +72,8 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### 2022
 * [KAIS 2022] **Autonomous graph mining algorithm search with best performance trade-off** [(Paper)](https://link.springer.com/article/10.1007/s10115-022-01683-8)
 * [ACL 2022] **KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning** [(Paper)](https://arxiv.org/pdf/2205.02460.pdf)
+* [arXiv 2022] **Start Small, Think Big On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings** [(Paper)](https://arxiv.org/abs/2207.04979)
+* [arXiv 2022] **Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality** [(Paper)](https://arxiv.org/abs/2207.00473)
 ### 2021
 * [ICML 2021] **Explainable Automated Graph Representation Learning with Hyperparameter Importance** [(Paper)](http://proceedings.mlr.press/v139/wang21f/wang21f.pdf)
 * [SIGIR 2021] **Automated Graph Learning via Population Based Self-Tuning GCN** [(Paper)](https://arxiv.org/abs/2107.04713)
@@ -94,6 +99,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 ### Others
+* [arXiv 2022] **AutoGML Fast Automatic Model Selection for Graph Machine Learning** [(Paper)](https://arxiv.org/abs/2206.09280)
 * [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
 * [arXiv 2022] **Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2204.02625)
 * [AILSCI 2022] **AutoGGN: A gene graph network AutoML tool for multi-omics research** [(Paper)](https://www.biorxiv.org/content/10.1101/2021.04.30.442074v2)
