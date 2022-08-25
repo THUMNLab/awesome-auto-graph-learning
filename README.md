@@ -18,6 +18,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
 * [ICML 2022] **Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
 * [ICML 2022] **DFG-NAS: Deep and Flexible Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.08582) [(Code)](https://github.com/PKU-DAIR/DFG-NAS)
+* [KDD 2022] **Graph Neural Networks with Node-wise Architecture** [(Paper)](https://www.bolin-ding.com/papers/kdd22nwgnn.pdf)
 * [KDDDLG 2022] **Graph Property Prediction on Open Graph Benchmark: A Winning Solution by Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2207.06027) [(Code)](https://github.com/AutoML-Research/PAS-OGB)
 * [SIGIR 2022] **AutoGSR: Neural Architecture Search for Graph-based Session Recommendation** [(Paper)](https://dl.acm.org/doi/10.1145/3477495.3531940)
 * [TKDE 2022] **GraphNAS++: Distributed Architecture Search for Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/9782531)
