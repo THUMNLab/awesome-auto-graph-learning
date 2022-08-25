@@ -14,6 +14,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ## Graph NAS
 ### 2022
 * [arXiv 2022] **NAS-Bench-Graph Benchmarking Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.09166)[(Code)](https://github.com/THUMNLab/NAS-Bench-Graph)
+* [CIKM 2022] **GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2208.09027.pdf) [(Code)](https://github.com/fxsxjtu/GraTO)
 * [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
 * [ICML 2022] **Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
 * [ICML 2022] **DFG-NAS: Deep and Flexible Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.08582) [(Code)](https://github.com/PKU-DAIR/DFG-NAS)
