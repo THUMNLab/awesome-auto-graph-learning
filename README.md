@@ -72,6 +72,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph HPO
 ### 2022
+* [CIKM 2022] **Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty** [(Paper)](https://zxj32.github.io/data/CIKM_2022.pdf) 
 * [KAIS 2022] **Autonomous graph mining algorithm search with best performance trade-off** [(Paper)](https://link.springer.com/article/10.1007/s10115-022-01683-8)
 * [ACL 2022] **KGTuner: Efficient Hyper-parameter Search for Knowledge Graph Learning** [(Paper)](https://arxiv.org/pdf/2205.02460.pdf)
 * [arXiv 2022] **Start Small, Think Big On Hyperparameter Optimization for Large-Scale Knowledge Graph Embeddings** [(Paper)](https://arxiv.org/abs/2207.04979)
