@@ -13,7 +13,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2022
-* [arXiv 2022] **NAS-Bench-Graph Benchmarking Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.09166)[(Code)](https://github.com/THUMNLab/NAS-Bench-Graph)
+* [NeurIPS 2022] **NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.09166)[(Code)](https://github.com/THUMNLab/NAS-Bench-Graph)
 * [CIKM 2022] **GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2208.09027.pdf) [(Code)](https://github.com/fxsxjtu/GraTO)
 * [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
 * [ICML 2022] **Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
@@ -28,6 +28,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
 * [TPDS 2022] **Auto-GNAS A Parallel Graph Neural Architecture Search Framework** [(Paper)](https://ieeexplore.ieee.org/document/9714826) 
 * [WSDM 2022] **Profiling the Design Space for Graph Neural Networks based Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/125.pdf) [(Code)](https://github.com/BUPT-GAMMA/Design-Space-for-GNN-based-CF)
+* [Applied Intelligence] **Automatic search of architecture and hyperparameters of graph convolutional networks for node classification** [(Paper)](https://link.springer.com/article/10.1007/s10489-022-04096-w)
 * [arXiv 2022] **AutoKE: An automatic knowledge embedding framework for scientific machine learning** [(Paper)](https://arxiv.org/abs/2205.05390)
 
 ### 2021
@@ -92,20 +93,27 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### 2019
 * [KDD 2019] **AutoNE: Hyperparameter optimization for massive network embedding** [(Paper)](http://pengcui.thumedialab.com/papers/AutoNE.pdf) [(Code)](https://github.com/tadpole/AutoNE)
 
+## Applications
+### Finance
+* [CIKM 2022] **Explainable Graph-based Fraud Detection via Neural Meta-graph Search** [(Paper)](https://ponderly.github.io/pub/NGS_CIKM2022.pdf)
+### Biology
+* [TCBB 2022] **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction** [(Paper)](https://ieeexplore.ieee.org/document/9881878)
+* [TCBB 2022] **AutoMSR: Auto Molecular Structure Representation Learning for Multi-label Metabolic Pathway Prediction** [(Paper)](https://ieeexplore.ieee.org/document/9864145)
+* [AILSCI 2022] **AutoGGN: A gene graph network AutoML tool for multi-omics research** [(Paper)](https://www.biorxiv.org/content/10.1101/2021.04.30.442074v2)
+* [BIBM 2021] **Multi-label Metabolic Pathway Prediction with Auto Molecular Structure Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9669309)
+### Knowledge Graph Embedding
+* [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
+* [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 
 ## Miscellaneous
 ### Self-supervised Learning
 * [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
 * [AAAI 2022] **AutoGCL Automated Graph Contrastive Learning via Learnable View Generators** [(Paper)](https://arxiv.org/abs/2109.10259) [(Code)](https://github.com/Somedaywilldo/AutoGCL)
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
-### Knowledge Graph Embedding
-* [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
-* [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 ### Others
 * [arXiv 2022] **AutoGML Fast Automatic Model Selection for Graph Machine Learning** [(Paper)](https://arxiv.org/abs/2206.09280)
 * [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
 * [arXiv 2022] **Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2204.02625)
-* [AILSCI 2022] **AutoGGN: A gene graph network AutoML tool for multi-omics research** [(Paper)](https://www.biorxiv.org/content/10.1101/2021.04.30.442074v2)
  
 ## Cite
 
