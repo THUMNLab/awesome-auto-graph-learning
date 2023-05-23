@@ -12,7 +12,22 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
 
 ## Graph NAS
+### 2023
+* [ICLR 2023] **AutoGT Automated Graph Transformer Architecture Search** [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
+* [WWW 2023] **Auto-HeG Automated Graph Neural Network on Heterophilic Graphs** [(Paper)](https://arxiv.org/abs/2302.12357)
+* [WWW 2023] **Search to Capture Long-range Dependency with Stacking GNNs for Graph Classification** [(Paper)](https://arxiv.org/pdf/2302.08671.pdf)
+* [AAAI 2023] **Dynamic Heterogeneous Graph Attention Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf)
+* [AAAI 2023] **Differentiable Meta Multigraph Search with Partial Message Propagation on Heterogeneous Information Networks** [(Paper)](https://arxiv.org/abs/2211.14752)
+* [ICDE 2023] **PSP Progressive Space Pruning for Efficient Graph Neural Architecture Search** [(Paper)](https://ieeexplore.ieee.org/document/9835246/)
+* [TKDE 2023] **Automated Graph Neural Network Search under Federated Learning Framework** [(Paper)](https://ieeexplore.ieee.org/document/10056291/)
+* [TKDE 2023] **HGNAS++ Efficient Architecture Search for Heterogeneous Graph Neural Networks** [(Paper)](https://ieeexplore.ieee.org/document/10040227)
+* [TOIS 2023] **Neural Architecture Search for GNN-based Graph Classification** [(Paper)](https://dl.acm.org/doi/10.1145/3584945)
+* [AI 2023] **AutoSTG+: An automatic framework to discover the optimal network for spatio-temporal graph prediction** [(Paper)](https://www.sciencedirect.com/science/article/pii/S0004370223000450)
+* [TETC 2023] **CommGNAS: Unsupervised Graph Neural Architecture Search for Community Detection** [(Paper)](https://ieeexplore.ieee.org/document/10112632)
+* [EngAppAI 2023] **Meta-GNAS Meta-reinforcement learning for graph neural architecture search** [(Paper)](https://www.sciencedirect.com/science/article/pii/S0952197623004840)
 ### 2022
+* [TKDD 2022] **Auto-STGCN: Autonomous Spatial-Temporal Graph Convolutional Network Search** [(Paper)](https://arxiv.org/abs/2010.07474)
+* [ICDM 2022] **Multi-Relational Graph Neural Architecture Search with Fine-grained Message Passing** [(Paper)](https://ieeexplore.ieee.org/document/10027750/)
 * [NeurIPS 2022] **NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2206.09166)[(Code)](https://github.com/THUMNLab/NAS-Bench-Graph)
 * [CIKM 2022] **GraTO: Graph Neural Network Framework Tackling Over-smoothing with Neural Architecture Search** [(Paper)](https://arxiv.org/pdf/2208.09027.pdf) [(Code)](https://github.com/fxsxjtu/GraTO)
 * [ICML 2022] **Large-Scale Graph Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf) [(Code)](https://github.com/THUMNLab/GAUSS)
@@ -28,8 +43,10 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [ICDE 2022] **AutoHEnsGNN Winning Solution to AutoGraph Challenge for KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2111.12952) [(Code)](https://github.com/aister2020/KDDCUP_2020_AutoGraph_1st_Place)
 * [TPDS 2022] **Auto-GNAS A Parallel Graph Neural Architecture Search Framework** [(Paper)](https://ieeexplore.ieee.org/document/9714826) 
 * [WSDM 2022] **Profiling the Design Space for Graph Neural Networks based Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/125.pdf) [(Code)](https://github.com/BUPT-GAMMA/Design-Space-for-GNN-based-CF)
+* [ESWA 2022] **Efficient graph neural architecture search using Monte Carlo Tree search and prediction network** [(Paper)](https://www.sciencedirect.com/science/article/pii/S0957417422019340)
 * [Applied Intelligence] **Automatic search of architecture and hyperparameters of graph convolutional networks for node classification** [(Paper)](https://link.springer.com/article/10.1007/s10489-022-04096-w)
 * [arXiv 2022] **AutoKE: An automatic knowledge embedding framework for scientific machine learning** [(Paper)](https://arxiv.org/abs/2205.05390)
+* [arXiv 2022] **Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach** [(Paper)](https://arxiv.org/abs/2211.10990)
 
 ### 2021
 * [NeurIPS 2021] **Graph Differentiable Architecture Search with Structure Learning** [(Paper)](https://openreview.net/forum?id=kSv_AMdehh3) [(Code)](https://github.com/THUMNLab/AutoGL)
@@ -72,6 +89,8 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [arXiv 2019] **Auto-gnn: Neural architecture search of graph neural networks** [(Paper)](https://arxiv.org/abs/1909.03184)
 
 ## Graph HPO
+### 2023
+* [TKDE 2023] **Revisiting Embedding Based Graph Analyses Hyperparameters Matter** [(Paper)](https://ieeexplore.ieee.org/abstract/document/9994037)
 ### 2022
 * [CIKM 2022] **Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty** [(Paper)](https://zxj32.github.io/data/CIKM_2022.pdf) 
 * [KAIS 2022] **Autonomous graph mining algorithm search with best performance trade-off** [(Paper)](https://link.springer.com/article/10.1007/s10115-022-01683-8)
@@ -104,13 +123,18 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Knowledge Graph Embedding
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
+### Others
+* [TIST 2023] **Dual Graph Convolution Architecture Search for Travel Time Estimation** [(Paper)](https://dl.acm.org/doi/10.1145/3591361)
+* [WWW 2023] **Automated Self-Supervised Learning for Recommendation** [(Paper)](https://dl.acm.org/doi/10.1145/3543507.3583336)
 
 ## Miscellaneous
 ### Self-supervised Learning
+* [LOGS 2022] **AutoGDA Automated Graph Data Augmentation for Node Classification** [(Paper)](https://proceedings.mlr.press/v198/zhao22a.html)
 * [ICLR 2022] **Automated Self-Supervised Learning for Graphs** [(Paper)](https://arxiv.org/pdf/2106.05470.pdf) [(Code)](https://github.com/ChandlerBang/AutoSSL)
 * [AAAI 2022] **AutoGCL Automated Graph Contrastive Learning via Learnable View Generators** [(Paper)](https://arxiv.org/abs/2109.10259) [(Code)](https://github.com/Somedaywilldo/AutoGCL)
 * [ICML 2021] **Graph Contrastive Learning Automated** [(Paper)](https://arxiv.org/abs/2106.07594) [(Code)](https://github.com/Shen-Lab/GraphCL_Automated) 
 ### Others
+* [ICLR 2023] **AutoTransfer AutoML with Knowledge Transfer - An Application to Graph Neural Networks** [(Paper)](https://openreview.net/forum?id=yT8twuGdqCX)
 * [arXiv 2022] **AutoGML Fast Automatic Model Selection for Graph Machine Learning** [(Paper)](https://arxiv.org/abs/2206.09280)
 * [TKDE 2021] **Automated Unsupervised Graph Representation Learning** [(Paper)](https://ieeexplore.ieee.org/document/9547743/) [(Code)](https://drive.google.com/drive/folders/1F7_LWvEg9Z70OxW2YJmivzg3qJ7tC6mE)
 * [arXiv 2022] **Bridging the Gap of AutoGraph between Academia and Industry: Analysing AutoGraph Challenge at KDD Cup 2020** [(Paper)](https://arxiv.org/abs/2204.02625)
