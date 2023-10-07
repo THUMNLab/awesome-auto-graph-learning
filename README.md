@@ -14,6 +14,9 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Graph NAS
 ### 2023
+* [NeurIPS 2023] **Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision** [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85)
+* [NeurIPS 2023] **Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum** [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE)
+* [CIKM 2023] **Node-dependent Semantic Search over Heterogeneous Graph Neural Networks** [(Paper)](http://www.shichuan.org/doc/154.pdf) [(Code)] https://github.com/BUPT-GAMMA/NDS
 * [ICML 2023] **Do Not Train It A Linear Neural Architecture Search of Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2305.14065) 
 * [ICLR 2023] **AutoGT Automated Graph Transformer Architecture Search** [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
 * [WWW 2023] **Auto-HeG Automated Graph Neural Network on Heterophilic Graphs** [(Paper)](https://arxiv.org/abs/2302.12357)
@@ -131,6 +134,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 ### Others
+* [CIKM 2023] **Retrieving GNN Architecture for Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/155.pdf)
 * [CASES 2023] **MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment** [(Paper)](https://arxiv.org/abs/2307.08065) 
 * [TIST 2023] **Dual Graph Convolution Architecture Search for Travel Time Estimation** [(Paper)](https://dl.acm.org/doi/10.1145/3591361)
 * [WWW 2023] **Automated Self-Supervised Learning for Recommendation** [(Paper)](https://dl.acm.org/doi/10.1145/3543507.3583336)
