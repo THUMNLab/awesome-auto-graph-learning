@@ -11,18 +11,20 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Tool
 * [ICLR 2021 GTRL workshop] **AutoGL: A Library for Automated Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL) [(Homepage)](https://mn.cs.tsinghua.edu.cn/AutoGL) [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) 
+* **Lightweight Auto Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL-light) [(Paper)](https://arxiv.org/abs/2104.04987) 
 
 ## Graph NAS
 ### 2023
-* [NeurIPS 2023] **Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision** [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85)
-* [NeurIPS 2023] **Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum** [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE)
+* [NeurIPS 2023] **Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision** [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85) [(Code)](https://github.com/wondergo2017/dsgas)
+* [NeurIPS 2023] **Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum** [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE) [(Code)](https://github.com/THUMNLab/AutoGL-light)
+* [NeurIPS 2023] **GLEMOS: Benchmark for Instantaneous Graph Learning Model Selection** [(Paper)](https://openreview.net/forum?id=5HisVXnx0n)
 * [CIKM 2023] **Node-dependent Semantic Search over Heterogeneous Graph Neural Networks** [(Paper)](http://www.shichuan.org/doc/154.pdf) [(Code)] https://github.com/BUPT-GAMMA/NDS
 * [ICML 2023] **Do Not Train It A Linear Neural Architecture Search of Graph Neural Networks** [(Paper)](https://arxiv.org/abs/2305.14065) 
 * [ICLR 2023] **AutoGT Automated Graph Transformer Architecture Search** [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
 * [WWW 2023] **Auto-HeG Automated Graph Neural Network on Heterophilic Graphs** [(Paper)](https://arxiv.org/abs/2302.12357)
 * [WWW 2023] **Search to Capture Long-range Dependency with Stacking GNNs for Graph Classification** [(Paper)](https://arxiv.org/pdf/2302.08671.pdf)
-* [AAAI 2023] **Dynamic Heterogeneous Graph Attention Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf)
-* [AAAI 2023] **Differentiable Meta Multigraph Search with Partial Message Propagation on Heterogeneous Information Networks** [(Paper)](https://arxiv.org/abs/2211.14752)
+* [AAAI 2023] **Dynamic Heterogeneous Graph Attention Neural Architecture Search** [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
+* [AAAI 2023] **Differentiable Meta Multigraph Search with Partial Message Propagation on Heterogeneous Information Networks** [(Paper)](https://arxiv.org/abs/2211.14752) [(Code)](https://github.com/JHL-HUST/PMMM)
 * [ICDE 2023] **PSP Progressive Space Pruning for Efficient Graph Neural Architecture Search** [(Paper)](https://ieeexplore.ieee.org/document/9835246/)
 * [TKDE 2023] **Automated Graph Neural Network Search under Federated Learning Framework** [(Paper)](https://ieeexplore.ieee.org/document/10056291/)
 * [TKDE 2023] **HGNAS++ Efficient Architecture Search for Heterogeneous Graph Neural Networks** [(Paper)](https://ieeexplore.ieee.org/document/10040227)
@@ -124,6 +126,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 ### Finance
 * [CIKM 2022] **Explainable Graph-based Fraud Detection via Neural Meta-graph Search** [(Paper)](https://ponderly.github.io/pub/NGS_CIKM2022.pdf)
 ### Biology
+* [JBHI 2024] **AutoDDI: Drug–drug Interaction Prediction with Automated Graph Neural Network** [(Paper)](https://ieeexplore.ieee.org/document/10380606)
 * [Bioinformatics 2023] **Cancer Drug Response Prediction With Surrogate Modeling-Based Graph Neural Architecture Search** [(Paper)](https://academic.oup.com/bioinformatics/article/39/8/btad478/7239861) [(Code)](https://github.com/BeObm/AutoCDRP)
 * [arXiv 2023] **Uncertainty Quantification for Molecular Property Predictions with Graph Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2307.10438) [(Code)](https://github.com/zavalab/ML/tree/master/AUTOGNNUQ)
 * [TCBB 2022] **Multi-view Graph Neural Architecture Search for Biomedical Entity and Relation Extraction** [(Paper)](https://ieeexplore.ieee.org/document/9881878)
@@ -134,6 +137,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * [arXiv 2021] **AutoSF+: Towards Automatic Scoring Function Design for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/2107.00184)
 * [ICDE 2020] **AutoSF: Searching Scoring Functions for Knowledge Graph Embedding** [(Paper)](https://arxiv.org/abs/1904.11682) [(Code)](https://github.com/AutoML-4Paradigm/AutoSF)
 ### Others
+* [arXiv 2024] **AutoGCN -- Towards Generic Human Activity Recognition with Neural Architecture Search** [(Paper)](https://arxiv.org/abs/2402.01313)
 * [CIKM 2023] **Retrieving GNN Architecture for Collaborative Filtering** [(Paper)](http://www.shichuan.org/doc/155.pdf)
 * [CASES 2023] **MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment** [(Paper)](https://arxiv.org/abs/2307.08065) 
 * [TIST 2023] **Dual Graph Convolution Architecture Search for Travel Time Estimation** [(Paper)](https://dl.acm.org/doi/10.1145/3591361)
