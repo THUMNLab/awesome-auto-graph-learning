@@ -14,6 +14,9 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 * **Lightweight Auto Graph Learning** [(Code)](https://github.com/THUMNLab/AutoGL-light) [(Paper)](https://arxiv.org/abs/2104.04987) 
 
 ## Graph NAS
+### 2024
+* [AAAI 2024] **Multimodal Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](http://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_Multimodal%20Graph%20Neural%20Architecture%20Search%20Under%20Distribution%20Shifts.pdf)
+* [AAAI 2024] **Data-Augmented Curriculum Graph Neural Architecture Search Under Distribution Shifts** [(Paper)](http://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_Data-augmented%20Curriculum%20Graph%20Neural%20Architecture%20Search%20Under%20Distribution%20Shifts.pdf)
 ### 2023
 * [NeurIPS 2023] **Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision** [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85) [(Code)](https://github.com/wondergo2017/dsgas)
 * [NeurIPS 2023] **Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum** [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE) [(Code)](https://github.com/THUMNLab/AutoGL-light)
