@@ -6,7 +6,7 @@ This is a paper collection about **automated graph learning**, i.e., fusing Auto
 
 ## Survey
 * [IJCAI 2021] **Automated Machine Learning on Graphs: A Survey** [(Paper)](https://arxiv.org/abs/2103.00742)
-* [Extension] **Automated Graph Machine Learning: Approaches, Libraries and Directions** [(Paper)](https://arxiv.org/abs/2201.01288)
+* [Extension] **Automated Graph Machine Learning: Approaches, Libraries, Benchmarks and Directions** [(Paper)](https://arxiv.org/abs/2201.01288)
 * (In Chinese)[计算机学报 2023] **图神经架构搜索综述** [(Paper)](http://cjc.ict.ac.cn/online/onlinepaper/zzw-202375101026.pdf)
 
 ## Tool
